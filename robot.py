@@ -60,5 +60,7 @@ class MyRobot(wpilib.TimedRobot):
         
         print(state)
 
+print("holaaa")
+
 if __name__ == "__main__":
     wpilib.run(MyRobot)
